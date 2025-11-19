@@ -3,11 +3,27 @@ And yes I have used a save editor before, but only because I kept losing my prog
 The save game is version 1.0e12-3868 (But that should update to whatever version your playing).
 The save should work on other platforms like Steam or the official site, etc.
 
+ALSO PLEASE READ THE WARNING PAGE IF YOU HAVEN'T ALREADY IT IS CRUCIAL INFO SO YOU DON'T BREAK THE GAME!
+
 Major Details: 
+My game design is an idle build, meaning I go inactive for a long time and my gains are greater then if I actively click.
+
+Time Played Since First Click: 2994 days or 8.2 years
+
 Zone Level: 406, 344, 835.
+  Normal Zone:
+    -800M monsters per zone (minimum 2 monsters per zone)
+    100% treasure chest chance.
+  Boss Zone: 
+    Boss Health: -500Mx of normal monster health
+    Boss Timer: 3,000,602,000.0 seconds
+    Primal Chance: 7,500M%
 
 Dark Rituals Used This Ascension:
   20/20
+
+World Transcensions: 260
+  Ascensions This Transcension: 233
 
 
 95% Achievements:
@@ -49,6 +65,8 @@ Damage Details:
 
   Click Damage: 9.377e133802062
 
+  Immortal Damage: 1.000e1E+200
+
 
 Item Details:
   Auto Clickers: 1,000,000,000,007.
@@ -86,14 +104,262 @@ Item Details:
     +1.82e6 seconds to the duration of Powersurge
 
 
+Skill Details:
+  Any Ancient pertaining to skill duration can only go to level 400k before it breaks the skills duration.
+
+  Clickerstorm: 
+    Duration: 10 days
+    Cooldown: 2m 30s
+
+  Powersurge:
+    Duration: 31 days
+    Cooldown: 2m 30s
+
+  Lucky Strikes: 
+    Duration: 10 days
+    Cooldown: 7m 30s
+
+  Metal Detector:
+    Duration: 31 days
+    Cooldown: 7m 30s
+
+  Golden Clicks:
+    Duration: 10 days
+    Cooldown: 15m
+    Bonus: clicks give 3.000e999999% monster gold (0.1% on bosses)
+
+  The Dark Ritual:
+    Cooldown: 2h
+    20/20 used this ascension.
+
+  Super Clicks:
+    Duration: 10 days
+    Cooldown: 15m
+
+  Energize:
+    Cooldown: 15m
+
+  Reload:
+    Cooldown: 15m
+
+
 Ancient Details: All Ancients unlocked
+  I normaly level up the ancients that their tabs are open not minimized.
+
   Argaic, Ancient of Enhancement:
     Level: 9.578e3393346
     Bonus: +1.91e3393347% gild damage bonus
 
-  Atman, Ancient of Souls
+  Atman, Ancient of Souls:
     Level: 1,000,000 or 1,000K
     Bonus: +7.50e9% chance of primal boss
+    For More Bonus Upgrade The Outsider: Rhageist
+
+  Berserker, Ancient of Rage:
+    Level: 400,000 or 400K
+    Bonus: +2.62e6 seconds to the duration of Powersurge
+    Warning: If you level-up you risk breaking the skills duration making its duration less then what it should be.
+
+  Bhaal, Ancient of Destruction:
+    Level: 1,000,000 or 1,000K
+    Bonus: 1.50e7% damage to critical hits
+
+  Bubos, Ancient of Diseases:
+    Level: 1,000,000 or 1,000K
+    Bonus: -5.00e8 monsters worth of boss life
+    For More Bonus Upgrade The Outsider: K'Ariqua
+
+  Chawedo, Ancient of Agitation:
+    Level: 400,000 or 400K
+    Bonus: +8.00e5 seconds to the duration of Clickerstorm
+    Warning: If you level-up you risk breaking the skills duration making its duration less then what it should be.
+
+  Chronos, Ancient of Time:
+    Level: 1,000,000 or 1,000K
+    Bonus: +3.00e9 seconds to boss fight timers
+    For More Bonus Upgrade The Outsider: Orphalas
+
+  Dogcog, Ancient of Thrift:
+    Level: 1,000,000 or 1,000K
+    Bonus: -99.99% hero hiring/ level-up cost (max reduction reached)
+
+  Dora, Ancient of Discovery:
+    Level: 1,000,000 or 1,000K
+    Bonus: +9.95e11% more treasure chests
+    For More Bonus Upgrade The Outsider: Sen-Akhan
+
+  Energon, Ancient of Battery Life:
+    Level: 400,000 or 400K
+    Bonus: +2.59e6 seconds to the duration of Metal Detector
+    Warning: If you level-up you risk breaking the skills duration making its duration less then what it should be.
+
+  Fortuna, Ancient of Chance:
+    Level: 1,000,000 or 1,000K
+    Bonus: 100% of 10x gold (max bonus reached)
+
+  Fragsworth, Ancient of Wrath:
+    Level: 1.788e3393331
+    Bonus: +3.57e3393332% click damage
+
+  Hecatoncheir, Ancient of Wallops:
+    Level: 400,000 or 400K
+    Bonus: +8.00e5 seconds to the duration of Super Clicks
+    Warning: If you level-up you risk breaking the skills duration making its duration less then what it should be.
+
+  Juggernaut, Ancient of Momentum:
+    Level: 1.000e1000000
+    Bonus: +1e999998% DPS per click combo (active clicking)
+    Warning: Be careful of how many autoclickers you use at once to click if your DPS or click damage go to infinity it breaks the game.
+
+  Kleptos, Ancient of Thieves:
+    Level: 400,000 or 400K
+    Bonus: +8e5 seconds to the duration of Golden Clicks
+    Warning: If you level-up you risk breaking the skills duration making its duration less then what it should be.
+
+  Kumawakamaru, Ancient of Shadows:
+    Level: 1,000,000 or 1,000K
+    Bonus: -8.00e8 monsters per zone (minimum 2 monsters per zone)
+    For More Bonus Upgrade The Outsider: Borb
+
+  Libertas, Ancient of Freedom:
+    Level: 2.024e3393344
+    Bonus: +3.92e103393343% gold from monsters when idle (no clicks for 60 seconds)
+
+  Mammon, Ancient of Greed:
+    Level: 6.742e3393338
+    Bonus: +3.37e3393339% gold dropped
+  
+  Mimzee, Ancient of Riches:
+    Level: 3.045e3393341
+    Bonus: +1.52e3393343% gold dropped from treasure chests
+
+  Morgulis, Ancient of Defeat:
+    Level: 1.000e1000000
+    Bonus: +1.10e1000001% to hero soul DPS (additive)
+
+  Nogardnit, Ancient of Moderation:
+    Level: 1.914e2714667
+    Bonus: +2.47e102714666% DPS per unassigned Auto Clicker When idle (no clicks for 60 seconds)
+
+  Pluto, Ancient of Wealth:
+    Level: 1.000e1000000
+    Bonus: +3e1000001% gold from Golden Clicks
+    Note: You can level this up without worrying about breaking the skill.
+
+  Revolc, Ancient of Luck:
+    Level: 1,000,000 or 1,000K
+    Bonus: +96% chance of double rubies from clickables (max bonus reached)
+
+  Siyalatas, Ancient of Abandon:
+    Level: 1.762e339336
+    Bonus: +3.41e103393335% DPS when idle (no clicks for 60 seconds)
+
+  Sniperino, Ancient of Accuracy:
+    Level: 400,000 or 400K
+    Bonus: +8.00e5 seconds to the duration of Lucky Strikes
+    Warning: If you level-up you risk breaking the skills duration making its duration less then what it should be.
+
+  Vaagur, Ancient of Impatience:
+    Level: 1,000,000 or 1,000K
+    Bonus: -75% skill cooldown (max reduction reached)
+
+
+Outsider Details: All Outsiders unlocked
+  Xyliqil:
+    Level: 567,000,000,000 or 567M
+    Bonus: +1.29e100000000 effects of idle bonuses
+    Cost to Next Level: Ancient Souls x567M
+
+  Chor'gorloth:
+    Level: 150
+    Bonus: -99.95% Ancient cost (max reduction reached)
+    Cost to Next Level: Max level reached
+
+  Phanoryss:
+    Level: 100,000,000,000 or 100M
+    Bonus: +1.00e10% DPS
+    Cost to Next Level: Ancient Souls x1
+
+  Ponyboy:
+    Level: 316,000,000,000 or 316M
+    Bonus: +1.00e20% Primal Hero Souls
+    Cost to Next Level: Ancient Souls x316M
+
+  Borb:
+    Level: 800,000,000,000 or 800M
+    Bonus: +1.00e10% effect to Kumawakamaru, Ancient of Shadows
+    Cost to Next Level: Ancient Souls x800M
+
+  Rhageist:
+    Level: 400,000,000,000 or 400M
+    Bonus: +1.00e10% effect to Atman, Ancient of Souls
+    Cost to Next Level: Ancient Souls x400M
+
+  K'Ariqua:
+    Level:200,000,000,000 or 200M
+    Bonus: +1.00e10% effect to Bubos, Ancient of Diseases
+    Cost to Next Level: Ancient Souls x200M
+
+  Orphalas:
+    Level: 200,000,000,000 or 200M
+    Bonus: +1.00e10% effect to Chronos, Ancient of Time
+    Cost to Next Level: Ancient Souls x200M
+
+  Sen-Akhan:
+    Level: 100,000,000,000 or 100M
+    Bonus: +1.00e10% effect to Dora, Ancient of Discovery
+    Cost to Next Level: Ancient Souls x100M
+
+
+Mercenary Details:
+  I have the Max of 5 Mercenaries.
+  Note: I normaly do 2 day and 1 day quests because 2 day provide 2 levels and 1 day provide 1 level exactly.
+
+  Mercenary 1, Christian:
+    Rarity: Transcendent
+    Level: 320 or Demigod + 312
+    Level Bonus: 320x
+    Progress to Next Level: 0%
+    Extra Lives: 999999943
+    Current Quest: Relic Quest
+      Status: Can collect for 512 Relics with 0% chance of another
+    
+  Mercenary 2, Sara:
+    Rarity: Transcendent
+    Level: 320 or Demigod + 312
+    Level Bonus: 320x
+    Progress to Next Level: 0%
+    Extra Lives: 999999944
+    Current Quest: Relic Quest
+      Status: Can collect for 512 Relics with 0% chance of another
+
+  Mercenary 3, Nosfrat:
+    Rarity: Transcendent
+    Level: 320 or Demigod + 312
+    Level Bonus: 320x
+    Progress to Next Level: 4%
+    Extra Lives: 999999947
+    Current Quest: Relic Quest
+      Status: Can collect for 512 Relics with 0% chance of another
+
+  Mercenary 4, David:
+    Rarity: Transcendent
+    Level: 1000000320 or Demigod + 1000000312
+    Level Bonus: 1000000320x
+    Progress to Next Level: 16%
+    Extra Lives: 999999937
+    Current Quest: Ruby Quest
+      Status: Can collect for 1.600001E+09 Rubies with 0% chance of another
+
+  Mercenary 5, Walter:
+    Rarity: Transcendent
+    Level: 1000000320 or Demigod + 1000000312
+    Level Bonus: 1000000320x
+    Progress to Next Level: 0%
+    Extra Lives: 999999941
+    Current Quest: Hero Soul Quest
+      Status: Can collect for 16000010000.00% of a quick ascension worth of Hero Souls
+
 
 Hero Details: All Heroes unlocked
   Cid, The Helpful Adventure:
